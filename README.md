@@ -1,11 +1,16 @@
 # nodejs-restapi-with-mongo
 sample nodejs api with mongoDB
 # how to build
-- install node 
-> command to install all npm module
-- npm install
+- install node
+```sh
+$cd <project dir>
+$npm install
+```
 # how to run
-- npm start
+```sh
+$cd <project dir>
+$npm start
+```
 # test the application
 all APIs are available on port 3000
 # Sample APIs to use
