@@ -2,7 +2,7 @@
 sample nodejs api with mongoDB
 # how to build
 - install node 
-command to install all npm module
+> command to install all npm module
 - npm install
 # how to run
 - npm start
@@ -18,5 +18,5 @@ all APIs are available on port 3000
  - http://localhost:3000/products/:id DELETE
  - http://localhost:3000/orders       GET
  - http://localhost:3000/orders       POST
- - http://localhost:3000/orders       DELETE
+ - http://localhost:3000/orders/:id   DELETE
  - http://localhost:3000/orders/:id   GET
